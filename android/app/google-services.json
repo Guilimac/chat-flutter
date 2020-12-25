@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398738941853",
+    "firebase_url": "https://chat-flutter-3a4ac-default-rtdb.firebaseio.com",
+    "project_id": "chat-flutter-3a4ac",
+    "storage_bucket": "chat-flutter-3a4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398738941853:android:57769a66c29db36ddcb174",
+        "android_client_info": {
+          "package_name": "guilimac.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398738941853-v79v6qf4k54ch8otvnk841rrrehggebf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "guilimac.chat",
+            "certificate_hash": "9160dbdb0d4bf1ea67986e8c424290ba302d3155"
+          }
+        },
+        {
+          "client_id": "398738941853-dn4sn9nke90dvff22tkhe9u02vfgko77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifmXW93EYPd98PLng-mMVamgolAD2HZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398738941853-dn4sn9nke90dvff22tkhe9u02vfgko77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
